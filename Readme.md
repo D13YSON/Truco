@@ -67,4 +67,4 @@ Veja abaixo, a ordem de força das cartas e a força dos naipes na manilha:
 - ♠ Espadas - espadilha
 - ♦ Ouros (mais fraca) - chamadas também de mole ou pica-fumo.
 
-![img.png](src/main/resources/imagens/Ordem das cartas.png)
+![img.png](src/main/resources/imagens/Ordem-das-cartas.png)
